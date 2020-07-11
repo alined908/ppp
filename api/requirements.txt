@@ -1,0 +1,5 @@
+Django
+django-cors-middleware
+djangorestframework
+PyJWT==1.4.2
+six==1.10.0
